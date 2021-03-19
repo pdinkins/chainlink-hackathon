@@ -1,1 +1,26 @@
 # chainlink-hackathon
+
+- [Hackathon](https://chain.link/hackathon)
+- [Chainlink Docs](https://docs.chain.link/docs)
+
+## Video Archives
+- [Opening Ceremony](https://www.youtube.com/watch?v=xvnDeMDnYik)
+- [Intro to smart contracts](https://www.youtube.com/watch?v=M7rTLO5GnuA&t=78s)
+- [IPFS Chainlink hackathon](https://www.youtube.com/watch?v=Ds1RJplxxxo)
+- [Scaling Dapps with Polygon](https://www.youtube.com/watch?v=wiFA8jP_y5U)
+- [Scaffold-eth](https://www.youtube.com/watch?v=63sXEPIEh-k)
+- [Solana Workshop](https://www.youtube.com/watch?v=g5A5QKh15pQ)
+- [Intro to chainlink](https://www.youtube.com/watch?v=5RFYY5G3zhk)
+- [Brownie, Python and DeFi](https://www.youtube.com/watch?v=SqeHUetM99A)
+- [Chainlink oracles on polkadot's future parachain](https://www.youtube.com/watch?v=zZFvgwxyFHE)
+- [Building with the graph and chainlink](https://www.youtube.com/watch?v=tvo8WzAkPQc)
+- [Why you need ENS](https://www.youtube.com/watch?v=uvdNDJ6drhc)
+- [Truffle, Hardhat and DeFi](https://www.youtube.com/watch?v=xNpzWaRaHfM)
+- [Dynamic NFT creation](https://www.youtube.com/watch?v=EzZEx0lumr0)
+- [AAVE for developers](https://www.youtube.com/watch?v=EzY9zFslRp0)
+- [Hunting bugs with Scribble and Fuzzing](https://www.youtube.com/watch?v=ETUbtQ85ex4)
+- [Building on Acala's polkadot DeFi hub](https://www.youtube.com/watch?v=c2OoCZhj_OQ)
+- [Testing Smart contracts and Multi-Chains](https://www.youtube.com/watch?v=d8SqLaH8pu0)
+- [Running a chainlink node](https://www.youtube.com/watch?v=ZB3GLtQvgME&t=41s)
+- [Blockchain for social impact](https://www.youtube.com/watch?v=HCHwyOXKKbw)
+- [Ultimate customization with external adapters](https://www.youtube.com/watch?v=4i75Dqbhjvw&t=5s)
