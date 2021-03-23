@@ -24,3 +24,5 @@
 - [Running a chainlink node](https://www.youtube.com/watch?v=ZB3GLtQvgME&t=41s)
 - [Blockchain for social impact](https://www.youtube.com/watch?v=HCHwyOXKKbw)
 - [Ultimate customization with external adapters](https://www.youtube.com/watch?v=4i75Dqbhjvw&t=5s)
+- [Avalanche Workshop](https://www.youtube.com/watch?v=UdzHxdfMKkE)
+- [Injective Protocol](https://www.youtube.com/watch?v=2bjvC-wwGtc)
