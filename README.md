@@ -5,7 +5,7 @@
 
 ## Video Archives
 - [Opening Ceremony](https://www.youtube.com/watch?v=xvnDeMDnYik)
-- [Intro to smart contracts](https://www.youtube.com/watch?v=M7rTLO5GnuA&t=78s)
+- [Intro to smart contracts](https://www.youtube.com/watch?v=M7rTLO5GnuA)
 - [IPFS Chainlink hackathon](https://www.youtube.com/watch?v=Ds1RJplxxxo)
 - [Scaling Dapps with Polygon](https://www.youtube.com/watch?v=wiFA8jP_y5U)
 - [Scaffold-eth](https://www.youtube.com/watch?v=63sXEPIEh-k)
@@ -21,11 +21,11 @@
 - [Hunting bugs with Scribble and Fuzzing](https://www.youtube.com/watch?v=ETUbtQ85ex4)
 - [Building on Acala's polkadot DeFi hub](https://www.youtube.com/watch?v=c2OoCZhj_OQ)
 - [Testing Smart contracts and Multi-Chains](https://www.youtube.com/watch?v=d8SqLaH8pu0)
-- [Running a chainlink node](https://www.youtube.com/watch?v=ZB3GLtQvgME&t=41s)
+- [Running a chainlink node](https://www.youtube.com/watch?v=ZB3GLtQvgME)
 - [Blockchain for social impact](https://www.youtube.com/watch?v=HCHwyOXKKbw)
-- [Ultimate customization with external adapters](https://www.youtube.com/watch?v=4i75Dqbhjvw&t=5s)
+- [Ultimate customization with external adapters](https://www.youtube.com/watch?v=4i75Dqbhjvw)
 - [Avalanche Workshop](https://www.youtube.com/watch?v=UdzHxdfMKkE)
 - [Injective Protocol](https://www.youtube.com/watch?v=2bjvC-wwGtc)
-- [Moonbeam Workshop](https://www.youtube.com/watch?v=ZWYVJuhjB2U&t=371s)
+- [Moonbeam Workshop](https://www.youtube.com/watch?v=ZWYVJuhjB2U)
 - [Synthetix Workshop](https://www.youtube.com/watch?v=8HG7U7ZAbaw)
 - []()
