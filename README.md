@@ -26,3 +26,6 @@
 - [Ultimate customization with external adapters](https://www.youtube.com/watch?v=4i75Dqbhjvw&t=5s)
 - [Avalanche Workshop](https://www.youtube.com/watch?v=UdzHxdfMKkE)
 - [Injective Protocol](https://www.youtube.com/watch?v=2bjvC-wwGtc)
+- [Moonbeam Workshop](https://www.youtube.com/watch?v=ZWYVJuhjB2U&t=371s)
+- [Synthetix Workshop](https://www.youtube.com/watch?v=8HG7U7ZAbaw)
+- []()
