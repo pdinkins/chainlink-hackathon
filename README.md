@@ -28,4 +28,7 @@
 - [Injective Protocol](https://www.youtube.com/watch?v=2bjvC-wwGtc)
 - [Moonbeam Workshop](https://www.youtube.com/watch?v=ZWYVJuhjB2U)
 - [Synthetix Workshop](https://www.youtube.com/watch?v=8HG7U7ZAbaw)
-- []()
+- [Front End Workshop](https://www.youtube.com/watch?v=Zuyfy9wz5Ww)
+- [RSK Workshop](https://www.youtube.com/watch?v=-SunriiX4IM)
+- [Data Providers](https://www.youtube.com/watch?v=cXJ_yEwx2BM&t=421s)
+- [NFTs eher.cards](https://www.youtube.com/watch?v=_3S8jCDJy7s)
