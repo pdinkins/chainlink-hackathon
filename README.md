@@ -33,3 +33,5 @@
 - [Data Providers](https://www.youtube.com/watch?v=cXJ_yEwx2BM&t=421s)
 - [NFTs eher.cards](https://www.youtube.com/watch?v=_3S8jCDJy7s)
 - [Filecoin](https://www.youtube.com/watch?v=NdSdsTsh0QI)
+- [Data provider oracles panel](https://www.youtube.com/watch?v=whhQmE-72kU)
+- [Hack with Fleek](https://www.youtube.com/watch?v=-A45TteFd3o)
