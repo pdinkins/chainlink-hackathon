@@ -35,3 +35,6 @@
 - [Filecoin](https://www.youtube.com/watch?v=NdSdsTsh0QI)
 - [Data provider oracles panel](https://www.youtube.com/watch?v=whhQmE-72kU)
 - [Hack with Fleek](https://www.youtube.com/watch?v=-A45TteFd3o)
+- [dForce Q&A](https://www.youtube.com/watch?v=rNlPg_l2CUE)
+- [Konomi Video](https://www.youtube.com/watch?v=1nF5ckrlHiw)
+- [Good Submission Guidelines](https://www.youtube.com/watch?v=mH0kBcfqLQA)
